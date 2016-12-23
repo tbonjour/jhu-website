@@ -1,2 +1,2 @@
 # jhu-website
-Files related to my Hopkins site
+Hopkins website: http://www.cs.jhu.edu/~tbonjou1/
